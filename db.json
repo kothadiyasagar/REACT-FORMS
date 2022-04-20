@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "sagar kothadiya",
+      "age": "22",
+      "address": "surat",
+      "department": "Engineer",
+      "salary": "75000",
+      "maritalstate": "Bachelor"
+    },
+    {
+      "name": "Atul",
+      "age": "22",
+      "address": "odish",
+      "department": "Hr",
+      "salary": "50000",
+      "id": 2
+    }
+  ]
+}
